@@ -10,8 +10,8 @@ namespace Epam.Upskill.SerializeXML
             Manual
         }
 
-		public Types Type;
-		public string GearsNumber;
+        public Types Type;
+        public string GearsNumber;
 
         public Transmission()
         {
